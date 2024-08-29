@@ -51,6 +51,7 @@ const Index = ({ pets }) => {
               </div>
             </div>
           </div>
+          <h3>Desarrollado por: Nestor Fabian Parra Pineda</h3>
         </div>
       ))}
       
