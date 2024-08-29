@@ -53,6 +53,10 @@ const Index = ({ pets }) => {
           </div>
         </div>
       ))}
+      
+      {/* TODO: Add developer info */}
+      <p>Desarrollado por: Nestor Fabian Parra Pineda</p>
+      
     </>
   );
 };
